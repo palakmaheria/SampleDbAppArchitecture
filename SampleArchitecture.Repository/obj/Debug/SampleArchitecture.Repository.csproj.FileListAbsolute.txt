@@ -1,0 +1,14 @@
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Repository\bin\Debug\AutoMapper.Net4.dll
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Repository\bin\Debug\SampleArchitecture.Repository.dll
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Repository\bin\Debug\SampleArchitecture.Repository.pdb
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Repository\bin\Debug\SampleArchitecture.Data.dll
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Repository\bin\Debug\SampleArchitecture.Mapper.dll
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Repository\bin\Debug\SampleArchitecture.Model.dll
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Repository\bin\Debug\AutoMapper.dll
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Repository\bin\Debug\SampleArchitecture.Data.pdb
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Repository\bin\Debug\SampleArchitecture.Mapper.pdb
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Repository\bin\Debug\SampleArchitecture.Model.pdb
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Repository\bin\Debug\AutoMapper.xml
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Repository\obj\Debug\SampleArchitecture.Repository.csprojResolveAssemblyReference.cache
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Repository\obj\Debug\SampleArchitecture.Repository.dll
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Repository\obj\Debug\SampleArchitecture.Repository.pdb

@@ -1,0 +1,9 @@
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Model\bin\Debug\SampleArchitecture.Model.dll
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Model\bin\Debug\SampleArchitecture.Model.pdb
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Model\obj\Debug\SampleArchitecture.Model.dll
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Model\obj\Debug\SampleArchitecture.Model.pdb
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Model\obj\Debug\SampleArchitecture.Model.csprojResolveAssemblyReference.cache
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\PistArchitecture\SampleArchitecture.Model\bin\Debug\SampleArchitecture.Model.dll
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\PistArchitecture\SampleArchitecture.Model\bin\Debug\SampleArchitecture.Model.pdb
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\PistArchitecture\SampleArchitecture.Model\obj\Debug\SampleArchitecture.Model.dll
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\PistArchitecture\SampleArchitecture.Model\obj\Debug\SampleArchitecture.Model.pdb

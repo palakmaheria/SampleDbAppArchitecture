@@ -1,0 +1,9 @@
+<StyleCopSettings Version="105">
+  <GlobalSettings>
+    <CollectionProperty Name="RecognizedWords">
+      <Value>api</Value>
+      <Value>dto</Value>
+      <Value>Dto</Value>
+    </CollectionProperty>
+  </GlobalSettings>
+</StyleCopSettings>

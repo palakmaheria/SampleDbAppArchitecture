@@ -1,0 +1,12 @@
+<StyleCopSettings Version="105">
+  <GlobalSettings>
+    <CollectionProperty Name="RecognizedWords">
+      <Value>Db</Value>
+      <Value>dto</Value>
+      <Value>Dto</Value>
+      <Value>rnd</Value>
+      <Value>Rnd</Value>
+      <Value>var</Value>
+    </CollectionProperty>
+  </GlobalSettings>
+</StyleCopSettings>

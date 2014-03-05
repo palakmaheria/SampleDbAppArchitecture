@@ -1,0 +1,12 @@
+<StyleCopSettings Version="105">
+  <GlobalSettings>
+    <CollectionProperty Name="RecognizedWords">
+      <Value>db</Value>
+      <Value>nullable</Value>
+      <Value>Nullable</Value>
+      <Value>rnd</Value>
+      <Value>postgre</Value>
+      <Value>sql</Value>
+    </CollectionProperty>
+  </GlobalSettings>
+</StyleCopSettings>

@@ -1,0 +1,16 @@
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Data\bin\Debug\SampleArchitecture.Data.dll.config
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Data\bin\Debug\SampleArchitecture.Data.dll
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Data\bin\Debug\SampleArchitecture.Data.pdb
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Data\bin\Debug\EntityFramework.dll
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Data\bin\Debug\EntityFramework.xml
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Data\obj\Debug\SampleArchitecture.Data.dll
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Data\obj\Debug\SampleArchitecture.Data.pdb
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Data\obj\Debug\SampleArchitecture.Data.csprojResolveAssemblyReference.cache
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\PistArchitecture\SampleArchitecture.Data\bin\Debug\SampleArchitecture.Data.dll.config
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\PistArchitecture\SampleArchitecture.Data\bin\Debug\SampleArchitecture.Data.dll
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\PistArchitecture\SampleArchitecture.Data\bin\Debug\SampleArchitecture.Data.pdb
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\PistArchitecture\SampleArchitecture.Data\bin\Debug\EntityFramework.dll
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\PistArchitecture\SampleArchitecture.Data\bin\Debug\EntityFramework.xml
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\PistArchitecture\SampleArchitecture.Data\obj\Debug\SampleArchitecture.Data.csprojResolveAssemblyReference.cache
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\PistArchitecture\SampleArchitecture.Data\obj\Debug\SampleArchitecture.Data.dll
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\PistArchitecture\SampleArchitecture.Data\obj\Debug\SampleArchitecture.Data.pdb

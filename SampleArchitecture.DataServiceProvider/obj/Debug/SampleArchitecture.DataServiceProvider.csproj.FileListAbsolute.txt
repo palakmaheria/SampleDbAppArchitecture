@@ -1,0 +1,10 @@
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.DataServiceProvider\bin\Debug\SampleArchitecture.DataServiceProvider.dll
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.DataServiceProvider\bin\Debug\SampleArchitecture.DataServiceProvider.pdb
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.DataServiceProvider\obj\Debug\SampleArchitecture.DataServiceProvider.dll
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.DataServiceProvider\obj\Debug\SampleArchitecture.DataServiceProvider.pdb
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.DataServiceProvider\obj\Debug\SampleArchitecture.DataServiceProvider.csprojResolveAssemblyReference.cache
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\PistArchitecture\SampleArchitecture.DataServiceProvider\bin\Debug\SampleArchitecture.DataServiceProvider.dll
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\PistArchitecture\SampleArchitecture.DataServiceProvider\bin\Debug\SampleArchitecture.DataServiceProvider.pdb
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\PistArchitecture\SampleArchitecture.DataServiceProvider\obj\Debug\SampleArchitecture.DataServiceProvider.csprojResolveAssemblyReference.cache
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\PistArchitecture\SampleArchitecture.DataServiceProvider\obj\Debug\SampleArchitecture.DataServiceProvider.dll
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\PistArchitecture\SampleArchitecture.DataServiceProvider\obj\Debug\SampleArchitecture.DataServiceProvider.pdb

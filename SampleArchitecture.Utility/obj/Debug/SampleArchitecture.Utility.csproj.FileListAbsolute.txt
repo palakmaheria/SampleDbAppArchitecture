@@ -1,0 +1,8 @@
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Utility\bin\Debug\SampleArchitecture.Utility.dll
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Utility\bin\Debug\SampleArchitecture.Utility.pdb
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Utility\obj\Debug\SampleArchitecture.Utility.dll
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\SampleArchitecture\SampleArchitecture.Utility\obj\Debug\SampleArchitecture.Utility.pdb
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\PistArchitecture\SampleArchitecture.Utility\bin\Debug\SampleArchitecture.Utility.dll
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\PistArchitecture\SampleArchitecture.Utility\bin\Debug\SampleArchitecture.Utility.pdb
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\PistArchitecture\SampleArchitecture.Utility\obj\Debug\SampleArchitecture.Utility.dll
+C:\Users\palak.maheria\Documents\Visual Studio 2013\Projects\PistArchitecture\SampleArchitecture.Utility\obj\Debug\SampleArchitecture.Utility.pdb

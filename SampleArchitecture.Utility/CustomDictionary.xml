@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dictionary>
+  <Words>
+    <Unrecognized>
+    </Unrecognized>
+    <Recognized>
+      <Word>Pist</Word>
+      <Word>RNDEntities</Word>
+      <Word>apiId</Word>
+      <Word>Api</Word>
+      <Word>apiId</Word>
+      <Word>nullable</Word>
+      <Word>Nullable</Word>
+      <Word>rnd</Word>
+      <Word>RND</Word>
+      <Word>tblUser</Word>
+    </Recognized>
+    <Deprecated>
+      <!--<Term PreferredAlternate=""></Term>-->
+    </Deprecated>
+    <Compound>
+      <!--<Term CompoundAlternate=""></Term>-->
+    </Compound>
+    <DiscreteExceptions>
+      <Term>QTest</Term>
+    </DiscreteExceptions>
+  </Words>
+  <Acronyms>
+    <CasingExceptions>
+      <Acronym>Sh</Acronym>
+      <Acronym>tbl</Acronym>
+      <Acronym>RND</Acronym>
+      <Acronym>Dto</Acronym>
+      <Acronym>Api</Acronym>
+      <Acronym>Db</Acronym>
+      <Acronym>rnd</Acronym>
+      <Acronym>Rnd</Acronym>
+      <Acronym>apiId</Acronym>
+      <Acronym>tblUser</Acronym>
+    </CasingExceptions>
+  </Acronyms>
+</Dictionary>

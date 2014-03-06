@@ -7,7 +7,7 @@ This is an effort towards creating a sample architecture showcasing end to end a
 
 Following are its features:
 
-- Supports multiple database (sample has shown connectivity with MSSQL  and PostGres database)
+- Supports multiple database (sample has shown connectivity with MSSQL  and Postgresql database)
 - Connection to SQL server using Entity framework
 - Use of Automapper to acheive layer separation
 - Implement DI using castle windsor
